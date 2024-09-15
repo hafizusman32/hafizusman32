@@ -1,6 +1,6 @@
 # 🌟 Hafiz Usman
 
-** I'm **Hafiz Usman**, a passionate developer with a **Master's degree** in Computer Science from **Sapienza - Università di Roma, Italy**. I have **8 years of experience** in developing a wide range of **web, mobile**, and **enterprise-level** applications. My focus is on creating **high-performance** and **scalable** solutions. 🎯
+** A **Senior**, passionate developer with a **Master's degree** in Computer Science from **Sapienza - Università di Roma, Italy**. I have **8 years of experience** in developing a wide range of **web, mobile**, and **enterprise-level** applications. My focus is on creating **high-performance** and **scalable** solutions. 🎯
 
 Throughout my career, I've contributed to both **SaaS platforms** and large-scale enterprise systems, always pushing the limits to deliver exceptional results.
 
